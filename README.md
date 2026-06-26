@@ -1,2 +1,2 @@
 # Estudos-Gerais
-Repositório destinado a entrega de atividades e estudos gerais 
+Laboratório 3 de Sistemas Orientados a Eventos
